@@ -1,0 +1,16 @@
+baseurl = "http://chischaschos.github.io/"
+languageCode = "en-us"
+title = "chischaschos rocks"
+theme = "nofancy"
+
+[taxonomies]
+    talk = "talks"
+    flashcard = "flashcards"
+    thought = "thoughts"
+
+[author]
+    name = "emmanuel delgado"
+    github = "chischaschos"
+    linkedin = "https://mx.linkedin.com/in/emmanueldelgado"
+    gaID = "UA-21486770-1"
+    twitter = "chischaschos"
