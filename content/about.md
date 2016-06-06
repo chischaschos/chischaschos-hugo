@@ -1,11 +1,18 @@
 +++
-date = "2016-02-07T20:03:58-06:00"
+date = "2016-06-05T20:18:44-06:00"
 draft = false
 title = "about"
 +++
 
+
 # What I’m doing now
-Hi, I'm Emmanuel Delgado. I'm in Colima, Mexico, spending all my time on these things:
+I am **J. Emmanuel Enrique Delgado Lara**, currently living in South San Francisco, US. I am
+investing my time in:
+
+- Developing Software in [ModCloth](http://www.modcloth.com/)
+- Training [BJJ](ralphgracie.com).
+
+## What I was doing on February 2016
 
 - Consulting at [Magma Labs](http://www.magmalabs.io/).
 - Learning about Graphs in [Coursera's Advanced Data Structures](https://www.coursera.org/learn/advanced-data-structures).
