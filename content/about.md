@@ -1,16 +1,15 @@
 +++
-date = "2016-06-05T20:18:44-06:00"
+date = "2016-08-08T20:18:44-06:00"
 draft = false
 title = "about"
 +++
-
 
 # What I’m doing now
 I am **J. Emmanuel Enrique Delgado Lara**, currently living in South San Francisco, US. I am
 investing my time in:
 
 - Developing Software in [ModCloth](http://www.modcloth.com/)
-- Training [BJJ](ralphgracie.com).
+- Training [BJJ](http://ralphgracie.com).
 
 ## What I was doing on February 2016
 
