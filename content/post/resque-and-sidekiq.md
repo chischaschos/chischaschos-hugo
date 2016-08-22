@@ -4,6 +4,7 @@ title = "Resque and Sidekiq as of August 2016"
 
 +++
 
+
 ## Document status
 Work in progress.
 
@@ -36,3 +37,8 @@ I want this writing to be:
 - https://hbr.org/2007/11/a-leaders-framework-for-decision-making
 - https://mentalmodelsblog.wordpress.com/
 http://mentalmodels.princeton.edu/about/what-are-mental-models/
+
+## TODO
+Review:
+- https://github.com/mperham/sidekiq/pull/2593#issuecomment-150316537
+- http://www.thegeekstuff.com/2013/11/linux-process-and-threads/
