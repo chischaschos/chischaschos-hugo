@@ -75,7 +75,14 @@
 </script>
 <script src="//carnivalapp.io/sites/611/init.js"></script>
 <script>
-  document.addEventListener("DOMContentLoaded", Carnival.init);
+  document.addEventListener("DOMContentLoaded", function() {
+  Carnival.init({
+    enabled: true,
+    article_author: "emmanuel d",
+    article_selector: "div.post",
+    block_selector: ":scope > p, :scope > pre",
+  });
+});
 </script>
 {{ end }}
 </body>
