@@ -5,10 +5,11 @@ title = "about"
 +++
 
 # What I’m doing now
-I am **J. Emmanuel Enrique Delgado Lara**, currently living in South San Francisco, US. I am
+I am **Emmanuel Delgado**, currently living in San Francisco, US. I am
 investing my time in:
 
 - Developing Software in [ModCloth](http://www.modcloth.com/)
+- [Udacity's AI nanodegree program])https://www.udacity.com/ai)
 - Training [BJJ](http://ralphgracie.com).
 
 ## What I was doing on February 2016
@@ -21,9 +22,3 @@ investing my time in:
 If my activities change, I’ll update this page. Last update was in February 2016.
 
 > CREDIT: I stole the idea for this page from [Gregory Brown](http://practicingdeveloper.com/now/) and  [Derek Sivers](https://sivers.org/nowff).
-
-
-## The past
-
-- Blogged at [Crowd Interactive](http://blog.crowdint.com/author/7-emmanuel-delgado).
-
