@@ -2,6 +2,7 @@ baseurl = "//chischaschos.github.io/"
 languageCode = "en-us"
 title = "chischaschos rocks"
 theme = "nofancy"
+disqusShortname = "chischaschos-rocks"
 
 [params]
     highlight="solarized_light"
