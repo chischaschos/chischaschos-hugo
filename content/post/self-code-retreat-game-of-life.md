@@ -1,7 +1,7 @@
 +++
-date = "2016-08-22T14:47:00-07:00"
+date  = "2016-08-22T14:47:00-07:00"
 title = "Self Code Retreat"
-
+tags  = ["coding"]
 +++
 
 ## Motivation

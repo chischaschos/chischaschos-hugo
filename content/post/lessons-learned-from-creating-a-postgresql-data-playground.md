@@ -1,6 +1,7 @@
 +++
 date = "2017-05-29T23:00:00-07:00"
 title = "Lessons learned from creating a postgresql data playground"
+tags = ["bash", "ruby", "postgresql"]
 +++
 
 ## Objective

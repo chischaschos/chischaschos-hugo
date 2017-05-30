@@ -1,11 +1,9 @@
 +++
-date = "2016-02-07T20:49:58-06:00"
-title = "RSpec and the Four Phase Tests"
-
+date       = "2016-02-07T20:49:58-06:00"
+title      = "RSpec and the Four Phase Tests"
+tags       = ["rspec", "testing", "best practices"]
+categories = ["pending-research"]
 +++
-
-## Document status
-Work in progress.
 
 ## Motivation
 I want to know what are the best practices to write RSpec tests when striving for a Four Phase Test.

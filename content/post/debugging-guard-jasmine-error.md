@@ -1,7 +1,7 @@
 +++
-date = "2016-09-27T11:11:11-07:00"
+date  = "2016-09-27T11:11:11-07:00"
 title = "Debugging guard-jasmine error"
-
+tags  = ["ruby", "debugging"]
 +++
 
 ## Motivation

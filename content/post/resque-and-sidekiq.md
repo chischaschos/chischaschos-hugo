@@ -1,12 +1,9 @@
 +++
-date = "2016-08-08T07:53:33-07:00"
-title = "Resque and Sidekiq as of August 2016"
-
+date       = "2016-08-08T07:53:33-07:00"
+title      = "Resque and Sidekiq as of August 2016"
+tags       = ["ruby"]
+categories = ["pending-research"]
 +++
-
-
-## Document status
-Work in progress.
 
 ## Motivation
 Some months ago, at an interview I got asked this:

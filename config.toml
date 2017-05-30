@@ -6,11 +6,7 @@ disqusShortname = "chischaschos-rocks"
 
 [params]
     highlight="solarized_light"
-
-[taxonomies]
-    talk = "talks"
-    flashcard = "flashcards"
-    thought = "thoughts"
+    topmenu="none"
 
 [author]
     name = "emmanuel delgado"

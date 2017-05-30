@@ -1,7 +1,7 @@
 +++
-date = "2016-08-23T08:39:20-07:00"
+date  = "2016-08-23T08:39:20-07:00"
 title = "Preferred learning resources around Software Development"
-
+tags  = ["coding"]
 +++
 
 ## Motivation

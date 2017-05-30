@@ -1,6 +1,8 @@
 +++
-date = "2017-05-02T13:00:00-07:00"
-title = "The Quest to learn GraphQL"
+date       = "2017-05-02T13:00:00-07:00"
+title      = "The Quest to learn GraphQL"
+tags       = ["graphql"]
+categories = ["pending-research"]
 +++
 
 
