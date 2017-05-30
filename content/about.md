@@ -9,7 +9,7 @@ I am **Emmanuel Delgado**, currently living in San Francisco, US. I am
 investing my time in:
 
 - Developing Software in [ModCloth](http://www.modcloth.com/)
-- [Udacity's AI nanodegree program])https://www.udacity.com/ai)
+- [Udacity's AI nanodegree program](https://www.udacity.com/ai)
 - Training [BJJ](http://ralphgracie.com).
 
 ## What I was doing on February 2016
