@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "chischaschos rocks"
 theme = "nofancy"
 
+[params]
+    highlight="solarized_light"
+
 [taxonomies]
     talk = "talks"
     flashcard = "flashcards"
