@@ -1,5 +1,5 @@
 +++
-date = "2016-08-08T20:18:44-06:00"
+date = "2017-08-20T00:00:00-06:00"
 draft = false
 title = "about"
 +++
@@ -9,15 +9,8 @@ I am **Emmanuel Delgado**, currently living in San Francisco, US. I am
 investing my time in:
 
 - Developing Software in [ModCloth](http://www.modcloth.com/)
-- [Udacity's AI nanodegree program](https://www.udacity.com/ai)
 - Training [BJJ](http://ralphgracie.com).
-
-## What I was doing on February 2016
-
-- Consulting at [Magma Labs](http://www.magmalabs.io/).
-- Learning about Graphs in [Coursera's Advanced Data Structures](https://www.coursera.org/learn/advanced-data-structures).
-- Preparing a podcast with my friends in [La Developeria](developeria.io), hopefully to be launched before end of February 2016.
-- Training Jiu Jitsu at [Zapata Team Colima](https://www.facebook.com/VolcanoBJJ).
+- [Reading](https://www.goodreads.com/user/show/24112838-emmanuel-delgado)
 
 If my activities change, I’ll update this page. Last update was in February 2016.
 
