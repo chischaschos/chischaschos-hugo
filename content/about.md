@@ -8,10 +8,8 @@ title = "about"
 I am **Emmanuel Delgado**, currently living in San Francisco, US. I am
 investing my time in:
 
-- Developing Software in [ModCloth](http://www.modcloth.com/)
-- Training [BJJ](http://ralphgracie.com).
-- [Reading](https://www.goodreads.com/user/show/24112838-emmanuel-delgado)
+- Developing Software in [Juvo](https://juvo.com/)
 
-If my activities change, I’ll update this page. Last update was in February 2016.
+If my activities change, I’ll update this page. Last update was in April 2018.
 
 > CREDIT: I stole the idea for this page from [Gregory Brown](http://practicingdeveloper.com/now/) and  [Derek Sivers](https://sivers.org/nowff).
