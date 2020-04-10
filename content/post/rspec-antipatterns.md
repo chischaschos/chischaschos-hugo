@@ -62,3 +62,5 @@ An specification only introduces the high level dependencies that are
 needed to execute our test and it also introduces high level expectations
 definitions. Every other detail is gonna live inside ruby functions that
 will play the role of a domain data factory library.
+
+## let vs method

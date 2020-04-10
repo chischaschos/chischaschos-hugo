@@ -14,3 +14,8 @@ disqusShortname = "chischaschos-rocks"
     linkedin = "emmanueldelgado"
     gaID = "UA-21486770-1"
     twitter = "chischaschos"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
