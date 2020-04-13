@@ -5,4 +5,5 @@ title = "about"
 +++
 
 # What I’m doing now
-I am **Emmanuel Delgado**, currently living in San Francisco, US. Solving problems at <img src="/shopify-icon.png" style="width: 30px; height: auto" />.
+I am **Emmanuel Delgado**, currently living in San Francisco, US. Solving problems at
+<a href="https://shopify.com"><img src="/shopify-icon.png" style="width: 30px; height: auto" /></a>.
