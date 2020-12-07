@@ -15,3 +15,8 @@ draft = true
 - Do not critize the person, maybe even do not critize at all?
 - Positive feedback wins always
 - are there any good parts that you like? praise them
+
+
+## Communication anti-patterns
+- Ask a question, then after receiving an answer never respond back
+- Ignore a question
