@@ -15,7 +15,8 @@ Today I noticed that the reported errors/warnings in my editor and the command l
 
 ## Is it neomake issue?
 I noticed that I had different versions of rubocop installed, because of reasons different projects have different versions of RuboCop.
-But shouldn't neomake use bundler exec?, well maybe https://github.com/neomake/neomake/issues/2078, but there is a less obtrusive way.
+
+But shouldn't neomake use bundler exec?. Well maybe https://github.com/neomake/neomake/issues/2078, but there is a less obtrusive way.
 
 ## [direnv](https://direnv.net/) and bundler binstubs
 I have already installed [direnv](https://direnv.net/), so what I did is:
