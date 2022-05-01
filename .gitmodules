@@ -1,6 +1,6 @@
 [submodule "public"]
 	path = public
-	url = git@github.com:chischaschos/chischaschos.github.io.git
+	url = https://github.com/chischaschos/chischaschos.github.io.git
 [submodule "themes/nofancy"]
 	path = themes/nofancy
-	url = git@github.com:gizak/nofancy.git
+	url = https://github.com/gizak/nofancy.git
